@@ -1,6 +1,6 @@
 # Language-Translator
 
-This application is used for translation of english content to other language like Hindi, Japanies, Frech and etc.
+This application is used for translation of english content to other language like Hindi, Japanies, French etc.
 
 This is command based application where you have run the command like given below.
 
