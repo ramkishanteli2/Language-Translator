@@ -12,4 +12,4 @@ Available languages:
        Examples: (e.g. en, ja, ko, pt, zh, zh-TW, ...)
        
 
-<img src="https://drive.google.com/file/d/1y7Rd8VDNjGNy_WPcFkNaIE_JABQ9cOF-/view?usp=sharing">
+<a href="https://ibb.co/ggfWG1x"><img src="https://i.ibb.co/ggfWG1x/image.png" alt="image" border="0"></a>
