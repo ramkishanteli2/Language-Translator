@@ -12,4 +12,4 @@ Available languages:
        Examples: (e.g. en, ja, ko, pt, zh, zh-TW, ...)
        
 
-<a href="https://ibb.co/ggfWG1x"><img src="https://i.ibb.co/ggfWG1x/image.png" alt="image" border="0"></a>
+<a href="https://ibb.co/ggfWG1x"><img src="https://i.ibb.co/Th70ZXs/image.png" alt="image" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>many pictures in one</a><br />
