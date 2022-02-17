@@ -12,4 +12,4 @@ Available languages:
        Examples: (e.g. en, ja, ko, pt, zh, zh-TW, ...)
        
 
-<img src="https://www.w3schools.com/images/w3schools_green.jpg">
+<img src="https://drive.google.com/file/d/1y7Rd8VDNjGNy_WPcFkNaIE_JABQ9cOF-/view?usp=sharing">
